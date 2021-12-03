@@ -19,7 +19,6 @@ yarn-error.log*
 !js/packages/metaplex/src/utils/globals.css
 js/.eslintcache
 target
-.env
 .vscode
 bin
 config.json
@@ -30,6 +29,5 @@ hfuzz_workspace
 **/*.so
 **/.DS_Store
 .cache
-js/packages/web/.env
 traits
 traits-configuration.json
